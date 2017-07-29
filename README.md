@@ -1,6 +1,6 @@
 <h1> TUNISIAN TENNIS FEDERATION </h1>
 
-<h3> DESCTIPTION </h3>
+<h3> DESCRIPTION </h3>
 
 
 This desktop application was developed and achieved in an academic enviroment. 
